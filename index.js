@@ -25,5 +25,3 @@ function savePassword() {
 }
 
 module.exports = { genPassword };
-
-// generatePassword help from https://attacomsian.com/blog/javascript-generate-random-string
